@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "D:\\Saitynai\\react-boilerplate-2019"
+		},
+		{
+			"path": "C:\\Users\\Martynas\\Downloads\\loaders\\loaders"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "react-boilerplate-2019\\node_modules\\typescript\\lib"
+	}
+}

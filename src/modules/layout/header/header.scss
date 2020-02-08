@@ -1,0 +1,23 @@
+.header {
+    .header-content {
+        height: 8rem;
+        font-size: 2rem;
+        color: white;
+        background-color: rgb(174, 177, 185);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .menu-bar {
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .menu-head {
+        display: flex;
+        justify-content: space-around;
+        padding: 5px;
+    }
+}

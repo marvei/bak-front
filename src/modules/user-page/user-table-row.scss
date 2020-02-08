@@ -1,0 +1,27 @@
+.user {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 1rem;
+    border: 1px solid #999999;
+    border-radius: 2px;
+    background-color: #cccccc;
+    flex-wrap: wrap;
+    margin-bottom: 0.1rem;
+    
+    > .info-section-wrapper {
+        label {
+            display: flex;
+            flex-flow: column wrap;
+        }
+        padding: 1rem;
+    }
+
+    button {
+        margin: 5px;
+        border: 1px solid #000000;
+        border-radius: 5px;
+    }
+
+    
+}
